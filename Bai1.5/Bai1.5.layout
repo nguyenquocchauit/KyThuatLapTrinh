@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [Editor_1]
 CursorCol=30
 CursorRow=1
@@ -16,3 +17,23 @@ CursorCol=23
 CursorRow=13
 TopLine=8
 LeftChar=1
+=======
+[Editor_1]
+CursorCol=30
+CursorRow=1
+TopLine=1
+LeftChar=1
+[Editors]
+Order=0,2
+Focused=0
+[Editor_0]
+CursorCol=21
+CursorRow=13
+TopLine=1
+LeftChar=1
+[Editor_2]
+CursorCol=23
+CursorRow=13
+TopLine=8
+LeftChar=1
+>>>>>>> 3a48ab6e9ba49582255d02c021098351483ef82a

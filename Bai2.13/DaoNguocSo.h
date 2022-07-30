@@ -1,0 +1,2 @@
+void sodaonguoc( int n);
+

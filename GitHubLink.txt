@@ -1,0 +1,2 @@
+Kho lưu trữ bài tập kỹ thuật lập trình 
+Link github:  https://github.com/nguyenquocchauit/KyThuatLapTrinh
