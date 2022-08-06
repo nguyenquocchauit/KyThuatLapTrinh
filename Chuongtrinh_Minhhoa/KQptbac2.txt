@@ -1,0 +1,7 @@
+0.0X^2 + 0.0X + 0.0 = 0 	 Phuong trinh vo so nghiem
+0.0X^2 + 0.0X + 4.0 = 0 	 Phuong trinh vo nghiem
+0.0X^2 + 2.0X + 3.0 = 0 	 Phuong trinh co nghiem duy nhat: -1.5
+1.0X^2 + 2.0X + 1.0 = 0 	 Nghiem co nghiem kep x1=x2= -1.0
+4.0X^2 + 1.0X + 8.0 = 0 	 Phuong trinh vo nghiem
+1.0X^2 + 5.0X + 2.0 = 0 	 Nghiem thu nhat x1 = -0.4, Nghiem thu nhat x2 = -4.6
+ 

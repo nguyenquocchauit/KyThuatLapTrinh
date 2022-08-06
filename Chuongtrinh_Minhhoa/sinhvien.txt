@@ -1,0 +1,4 @@
+61130073, Nguyen Quoc Chau, 6.5
+61155073, Nguyen Quoc Anh, 7.5
+61166073, Nguyen Quoc Tuan, 8.5
+61130883, Nguyen Quoc Minh, 5.5
